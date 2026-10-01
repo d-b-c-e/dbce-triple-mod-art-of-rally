@@ -1,5 +1,10 @@
 # art of rally triple-screen
 
+> **Retired repository: development moved to [DBCE mods for art of rally](https://github.com/d-b-c-e/dbce-mods-art-of-rally/tree/main/components/triple).**
+>
+> This repository is archived for historical source, documentation and existing release downloads. Its source history through `f8b0f816cd3bdbe9db3c251f31b3e8d59933d37a` is preserved in the combined repository. Use the [combined setup guide](https://github.com/d-b-c-e/dbce-mods-art-of-rally/blob/main/docs/GAME-SETUP.md) and [combined issue tracker](https://github.com/d-b-c-e/dbce-mods-art-of-rally/issues) for current work. The existing **0.3.11** release remains available below; consolidation does not make unreleased 0.3.12 source an accepted release.
+
+
 Angle-correct left, center, and right views for [art of rally](https://store.steampowered.com/app/550320/). Use one wide NVIDIA Surround display or three separate Windows displays. The mod includes its own screen setup and field-of-view control; **Triple Screen Optimizer is optional**.
 
 **[Download 0.3.11](https://github.com/d-b-c-e/dbce-triple-mod-art-of-rally/releases/tag/v0.3.11)** · [Setup guide](docs/SETUP.md) · [Known issues](docs/KNOWN-ISSUES.md) · [Changelog](CHANGELOG.md)
